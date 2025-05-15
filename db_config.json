@@ -1,0 +1,8 @@
+{
+    "db_host" : "postgres",
+    "db_user" : "dummy",
+    "db_pwd" : "dummypwd",
+    "db_name" : "dummy",
+    "db_port" : 5432,
+    "db_table" : "eod_positions"
+}
